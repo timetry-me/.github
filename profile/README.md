@@ -1,6 +1,6 @@
 ## Timetry Project 👋
 
-<img width="1098" alt="Screenshot 2023-11-01 alle 22 55 31" src="https://github.com/timetry-me/.github/assets/949194/6877ea3c-c1b7-478a-96d6-fd594d3abcc2">
+<img width="1082" alt="Screenshot 2023-11-01 alle 23 02 28" src="https://github.com/timetry-me/.github/assets/949194/98ee627c-11c4-4be5-af2c-6813c246d2b4">
 
 
 ##  **Timetry Project**
