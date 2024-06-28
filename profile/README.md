@@ -5,9 +5,7 @@ https://earth.google.com/web/search/San+Benedetto+del+Tronto,+AP/@42.94380514,13
 
 ##  **Timetry Project**
 Some api:
-- 🙋‍♀️ t-points
-- 🌈 t-central
-- 👩‍💻 t-api
-- 🍿 t-site
-- 🧙 t-screen app
+- laps (the list opf point that will compose a path)
+- lap points (are the principal points inside a lap were we will have some hardware to detect the rfid of runners)
+
 
